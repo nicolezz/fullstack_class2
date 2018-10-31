@@ -1,0 +1,56 @@
+.background {
+  background-color: #5bd75b;
+  width: 1450px;
+  height: 700px;
+}
+
+.box1 {
+  display: flex;
+  position: absolute;
+  top: 30%;
+  left: 32%;
+  width: 500px;
+  height: 350px;
+  border: darkgray;
+  background-color: white;
+}
+
+.box2 {
+  position: absolute;
+  font-size: 15px;
+  padding-left: 10px;
+  width: 360px;
+  height: 50px;
+  top: 50px;
+  left: 70px;
+  background-color: lightgrey;
+}
+
+.box3 {
+  position: absolute;
+  font-size: 15px;
+  padding-left: 10px;
+  width: 360px;
+  height: 50px;
+  top: 120px;
+  left: 70px;
+  background-color: lightgrey;
+}
+
+.button1 {
+  background-color: #4CAF50;
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  width: 375px;
+  height: 50px;
+  top: 190px;
+  left: 70px;
+}
+
+.register {
+  position: absolute;
+  text-align: center;
+  top: 250px;
+  left: 140px;
+}
